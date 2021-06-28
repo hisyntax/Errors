@@ -1,2 +1,2 @@
 # Errors
-Custom errors in Go
+Customized errors in Go
